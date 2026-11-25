@@ -14,6 +14,7 @@
 
 <a href="https://kodentix.com/"><img src="https://img.shields.io/badge/kodentix.com-1B5FA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kodentix.com" /></a>
 <a href="mailto:info@kodentix.com"><img src="https://img.shields.io/badge/info@kodentix.com-1AA88A?style=for-the-badge&logo=maildotru&logoColor=white" alt="info@kodentix.com" /></a>
+<a href="https://www.instagram.com/kodentix_website"><img src="https://img.shields.io/badge/kodentix__website-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: kodentix_website" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=KodentixDev&label=Profile%20views&color=1B5FA6&style=flat" alt="Profile views" />
 
@@ -105,6 +106,7 @@ Yeni bir layihəniz var? Pulsuz konsultasiya üçün bizimlə əlaqə saxlayın.
 
 - 🌐 Sayt: [kodentix.com](https://kodentix.com/)
 - ✉️ E-poçt: [info@kodentix.com](mailto:info@kodentix.com)
+- 📸 Instagram: [@kodentix_website](https://www.instagram.com/kodentix_website)
 - 🗣️ Dillər: Azərbaycan · Türkçe · Русский · English
 
 <div align="center">
