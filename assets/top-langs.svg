@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="Repolar əsas dilə görə: Dart 12, PHP 6, Python 4, JavaScript 4, CSS 4, TypeScript 1, HTML 1, PL/pgSQL 1">
+  <style>
+    .t{font:600 17px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#4FB3F6}
+    .l{font:400 13px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#C9D6E2}
+    .v{font:700 13px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#FFFFFF}
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="229" rx="10" fill="#0F2A3A" stroke="#1B5FA6"/>
+  <text x="24" y="36" class="t">Repolar əsas dilə görə</text>
+
+  <!-- bar scale: 1 repo = 20px -->
+  <g transform="translate(24,60)">
+    <text y="0" class="l">Dart</text>
+    <rect x="96" y="-10" width="240" height="10" rx="5" fill="#54C5F8"/>
+    <text x="372" y="0" class="v" text-anchor="end">12</text>
+  </g>
+  <g transform="translate(24,81)">
+    <text y="0" class="l">PHP</text>
+    <rect x="96" y="-10" width="120" height="10" rx="5" fill="#8892BF"/>
+    <text x="372" y="0" class="v" text-anchor="end">6</text>
+  </g>
+  <g transform="translate(24,102)">
+    <text y="0" class="l">Python</text>
+    <rect x="96" y="-10" width="80" height="10" rx="5" fill="#4B8BBE"/>
+    <text x="372" y="0" class="v" text-anchor="end">4</text>
+  </g>
+  <g transform="translate(24,123)">
+    <text y="0" class="l">JavaScript</text>
+    <rect x="96" y="-10" width="80" height="10" rx="5" fill="#F1E05A"/>
+    <text x="372" y="0" class="v" text-anchor="end">4</text>
+  </g>
+  <g transform="translate(24,144)">
+    <text y="0" class="l">CSS</text>
+    <rect x="96" y="-10" width="80" height="10" rx="5" fill="#A97BFF"/>
+    <text x="372" y="0" class="v" text-anchor="end">4</text>
+  </g>
+  <g transform="translate(24,165)">
+    <text y="0" class="l">TypeScript</text>
+    <rect x="96" y="-10" width="20" height="10" rx="5" fill="#3178C6"/>
+    <text x="372" y="0" class="v" text-anchor="end">1</text>
+  </g>
+  <g transform="translate(24,186)">
+    <text y="0" class="l">HTML</text>
+    <rect x="96" y="-10" width="20" height="10" rx="5" fill="#E34C26"/>
+    <text x="372" y="0" class="v" text-anchor="end">1</text>
+  </g>
+  <g transform="translate(24,207)">
+    <text y="0" class="l">PL/pgSQL</text>
+    <rect x="96" y="-10" width="20" height="10" rx="5" fill="#1FC8A4"/>
+    <text x="372" y="0" class="v" text-anchor="end">1</text>
+  </g>
+</svg>

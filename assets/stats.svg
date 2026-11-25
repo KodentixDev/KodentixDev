@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="Kodentix GitHub statistikası: 33 repo, 12 mobil, 11 backend, 10 veb">
+  <style>
+    .t{font:600 17px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#4FB3F6}
+    .l{font:400 14px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#C9D6E2}
+    .v{font:700 15px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#FFFFFF}
+    .n{font:400 11px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#7D93A6}
+    .big{font:800 34px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#FFFFFF}
+    .bl{font:600 11px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#1FC8A4;letter-spacing:1.5px}
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="229" rx="10" fill="#0F2A3A" stroke="#1B5FA6"/>
+  <text x="24" y="36" class="t">Kodentix GitHub Statistikası</text>
+
+  <g transform="translate(24,66)">
+    <circle cx="5" cy="-5" r="5" fill="#1FC8A4"/>
+    <text x="22" y="0" class="l">Ümumi repolar</text>
+    <text x="232" y="0" class="v" text-anchor="end">33</text>
+  </g>
+  <g transform="translate(24,98)">
+    <circle cx="5" cy="-5" r="5" fill="#54C5F8"/>
+    <text x="22" y="0" class="l">Mobil tətbiq repoları</text>
+    <text x="232" y="0" class="v" text-anchor="end">12</text>
+  </g>
+  <g transform="translate(24,130)">
+    <circle cx="5" cy="-5" r="5" fill="#8892BF"/>
+    <text x="22" y="0" class="l">Backend / API repoları</text>
+    <text x="232" y="0" class="v" text-anchor="end">11</text>
+  </g>
+  <g transform="translate(24,162)">
+    <circle cx="5" cy="-5" r="5" fill="#F1E05A"/>
+    <text x="22" y="0" class="l">Veb repoları</text>
+    <text x="232" y="0" class="v" text-anchor="end">10</text>
+  </g>
+
+  <g transform="translate(340,112)">
+    <circle r="46" fill="none" stroke="#17405A" stroke-width="8"/>
+    <circle r="46" fill="none" stroke="#1FC8A4" stroke-width="8" stroke-linecap="round" stroke-dasharray="217 289" transform="rotate(-90)"/>
+    <text y="8" class="big" text-anchor="middle">33</text>
+    <text y="26" class="bl" text-anchor="middle">REPO</text>
+  </g>
+
+  <text x="24" y="208" class="n">Mənbə: GitHub API · yenilənib 25.11.2026</text>
+</svg>
